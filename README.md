@@ -1,5 +1,6 @@
 # Object-Avoidance-Robot-Arduino
 
+A robot car based on Arduino that can avoid objactles using an ultrasonic sensor.
 
 Components:
 
