@@ -8,7 +8,7 @@ Components:
 -2 DC Motors;
 -L298N Dual H Bridge Stepper Motor Driver Board
 -9V Battery
--Small Breadboard and Jump Wires
+-Mini Breadboard and Jump Wires
 -Tank Car Chassis 
   
 
