@@ -3,10 +3,10 @@
 
 
 void setup() {
-pinMode(13,OUTPUT);  
-pinMode(12,OUTPUT);   
-pinMode(11,OUTPUT);  
-pinMode(10,OUTPUT);
+pinMode(13,OUTPUT);  //left motors forward
+pinMode(12,OUTPUT);  //left motors reverse
+pinMode(11,OUTPUT);  //right motors forward
+pinMode(10,OUTPUT);   //right motors reverse
 Serial.begin(9600);
 pinMode(ECHO_PIN, INPUT); //Set the connection pin output mode Echo pin
 pinMode(TRIG_PIN, OUTPUT);//Set the connection pin output mode trig pin
