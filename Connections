@@ -1,0 +1,21 @@
+Ultrasonic sensor:
+Gnd->mini breadboard
+vcc->mini breadboard
+Echo->A2
+Trig->A3
+
+Motor Driver:
+IN1 -> PIN13
+IN2 -> PIN12
+IN3 -> PIN10
+IN4 -> PIN11
+GND -> Arduino GND
+5V -> mini breadboard to power sensor
+12V -> Battery (+)
+
+Battery:
+ (+) -> motor driver 12V in
+ (-) -> to miniboard
+ 
+Arduino (if not already mentioned):
+ GND - miniboard
